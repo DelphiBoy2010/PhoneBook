@@ -1,0 +1,64 @@
+object frmWelcomePage: TfrmWelcomePage
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 560
+  ClientWidth = 380
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnClose = FormClose
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object Panel1: TPanel
+    Align = Client
+    Size.Width = 380.000000000000000000
+    Size.Height = 560.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object ToolBar1: TToolBar
+      ControlType = Platform
+      Size.Width = 380.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object btnBack: TSpeedButton
+        Align = MostLeft
+        ControlType = Platform
+        Size.Width = 48.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'backtoolbutton'
+        OnClick = btnBackClick
+      end
+      object lblTitle: TLabel
+        Align = Client
+        Margins.Left = 10.000000000000000000
+        Size.Width = 322.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'toollabel'
+        TextSettings.HorzAlign = Center
+        Text = 'welcome'
+        TabOrder = 0
+      end
+    end
+    object Layout1: TLayout
+      Align = Client
+      Padding.Left = 5.000000000000000000
+      Padding.Top = 5.000000000000000000
+      Padding.Right = 5.000000000000000000
+      Padding.Bottom = 5.000000000000000000
+      Size.Width = 380.000000000000000000
+      Size.Height = 512.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object wbMainPage: TWebBrowser
+        Align = Client
+        Size.Width = 370.000000000000000000
+        Size.Height = 502.000000000000000000
+        Size.PlatformDefault = False
+      end
+    end
+  end
+end

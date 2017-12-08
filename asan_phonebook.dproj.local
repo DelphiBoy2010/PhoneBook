@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="YLEUWSUGA68SNZS4"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2017/03/09 11:38:08.000.608,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\Unit1.fmx=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\ShowWordsForm.fmx</Transaction>
+    <Transaction>2017/03/10 16:37:45.000.864,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\HeaderFooterNavigation.dproj=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\MQL.dproj</Transaction>
+    <Transaction>2017/03/10 16:38:06.000.007,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\HeaderFooterFormwithNavigation.fmx=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\MainForm.fmx</Transaction>
+    <Transaction>2017/03/19 20:21:11.000.647,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\DAL\DataModule.dfm=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\Unit1.dfm</Transaction>
+    <Transaction>2017/03/20 11:09:46.000.362,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\Unit1.dfm=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\DAL\DataModule.dfm</Transaction>
+    <Transaction>2017/03/20 11:18:13.000.457,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\Unit1.dfm=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\DAL\DataModule.dfm</Transaction>
+    <Transaction>2017/04/21 10:31:13.000.742,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\Unit1.fmx=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\GroupListForm.fmx</Transaction>
+    <Transaction>2017/04/27 15:25:25.000.602,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\GroupsForm.fmx=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\Unit1.fmx</Transaction>
+    <Transaction>2017/04/27 16:23:15.000.779,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\EditWordsForm.fmx=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\Unit1.fmx</Transaction>
+    <Transaction>2017/06/29 10:55:35.000.928,E:\Programming\MyProjects\MQL2\MQL Main FMX\Unit1.fmx=E:\Programming\MyProjects\MQL2\MQL Main FMX\AboutUs.fmx</Transaction>
+    <Transaction>2017/07/13 09:37:49.000.866,E:\Programming\MyProjects\Woocammerce\Client\WooShop.dproj=E:\Programming\MyProjects\Woocammerce\Client\MQL.dproj</Transaction>
+    <Transaction>2017/07/13 15:46:30.000.923,E:\Programming\MyProjects\BDress\App\WooShop.dproj=E:\Programming\MyProjects\BDress\App\BDress.dproj</Transaction>
+    <Transaction>2017/07/14 10:32:24.000.986,E:\Programming\MyProjects\BDress\App\Unit1.fmx=E:\Programming\MyProjects\BDress\App\WelcomePageForm.fmx</Transaction>
+    <Transaction>2017/07/14 17:41:14.000.596,E:\Programming\MyProjects\BDress\App\Products\CategoryLevel1_Form.fmx=E:\Programming\MyProjects\BDress\App\Products\GroupListForm.fmx</Transaction>
+    <Transaction>2017/07/20 11:13:54.000.827,E:\Programming\MyProjects\BDress\App\Unit1.fmx=E:\Programming\MyProjects\BDress\App\Products\CategoryList2_Frame.fmx</Transaction>
+    <Transaction>2017/07/29 18:29:41.000.235,E:\Programming\MyProjects\Tazarv\Android App Launcher\Demo_App1\TacDemo1.dproj=E:\Programming\MyProjects\Tazarv\Android App Launcher\Demo_App1\BDress.dproj</Transaction>
+    <Transaction>2017/08/03 11:57:49.000.142,E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp\TacDemo1.dproj=E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp\Gilan_PDC.dproj</Transaction>
+    <Transaction>2017/08/03 14:07:59.000.655,E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp\Unit2.pas=E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp\DAL\WebModule.pas</Transaction>
+    <Transaction>2017/08/03 14:07:59.000.655,E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp\Unit2.dfm=E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp\DAL\WebModule.dfm</Transaction>
+    <Transaction>2017/08/07 09:42:43.000.889,E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp_Native\Gilan_PDC_N.dproj=E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp_Native\Gilan_PDC.dproj</Transaction>
+    <Transaction>2017/08/07 09:51:01.000.224,E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp_Native\Unit1.fmx=E:\Programming\MyProjects\Tazarv\Havades Mobile\HavadesApp_Native\Views\ProfileForm.fmx</Transaction>
+    <Transaction>2017/11/26 12:08:01.000.385,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Demo\Demo1\TejaratDemo.dproj=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Demo\Demo1\Gilan_PDC_N.dproj</Transaction>
+    <Transaction>2017/11/26 15:29:32.000.534,=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Demo\Demo1\Unit1.pas</Transaction>
+    <Transaction>2017/11/26 15:29:55.000.949,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Demo\Demo1\Views\TestForm.fmx=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Demo\Demo1\Unit1.fmx</Transaction>
+    <Transaction>2017/11/26 15:29:55.000.949,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Demo\Demo1\Views\TestForm.pas=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Demo\Demo1\Unit1.pas</Transaction>
+    <Transaction>2017/12/02 09:32:15.000.594,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Tac_Tejarat.dproj=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\TejaratDemo.dproj</Transaction>
+    <Transaction>2017/12/02 09:33:47.000.101,=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\LogManager\asanyab.TextLog.pas</Transaction>
+    <Transaction>2017/12/02 11:19:41.000.291,=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.pas</Transaction>
+    <Transaction>2017/12/02 11:20:05.000.070,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.pas=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\CustomersListForm.pas</Transaction>
+    <Transaction>2017/12/02 11:20:05.000.070,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.fmx=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\CustomersListForm.fmx</Transaction>
+    <Transaction>2017/12/02 11:45:19.000.098,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\ProfileForm.fmx=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\CustomerDataForm.fmx</Transaction>
+    <Transaction>2017/12/02 11:45:19.000.098,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\ProfileForm.pas=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\CustomerDataForm.pas</Transaction>
+    <Transaction>2017/12/02 11:54:13.000.878,=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit2.pas</Transaction>
+    <Transaction>2017/12/02 11:54:29.000.742,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit2.pas=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\ViewDataModule.pas</Transaction>
+    <Transaction>2017/12/02 11:54:29.000.742,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit2.dfm=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\ViewDataModule.dfm</Transaction>
+    <Transaction>2017/12/02 13:09:01.000.148,=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.pas</Transaction>
+    <Transaction>2017/12/02 13:10:19.000.654,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\KnowledgeTreeForm.fmx=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.fmx</Transaction>
+    <Transaction>2017/12/02 13:10:19.000.654,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\KnowledgeTreeForm.pas=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.pas</Transaction>
+    <Transaction>2017/12/02 13:12:00.000.161,=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.pas</Transaction>
+    <Transaction>2017/12/02 13:12:24.000.102,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\BranchesListForm.pas=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.pas</Transaction>
+    <Transaction>2017/12/02 13:12:24.000.102,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\BranchesListForm.fmx=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Unit1.fmx</Transaction>
+    <Transaction>2017/12/02 13:15:56.000.143,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\BranchesSearchForm.pas=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\BranchesListForm.pas</Transaction>
+    <Transaction>2017/12/02 13:15:56.000.143,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\BranchesSearchForm.fmx=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\BranchesListForm.fmx</Transaction>
+    <Transaction>2017/12/02 13:16:13.000.320,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\KnowledgeTreeSearchForm.pas=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\KnowledgeTreeForm.pas</Transaction>
+    <Transaction>2017/12/02 13:16:13.000.320,E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\KnowledgeTreeSearchForm.fmx=E:\Programming\MyProjects\Tazarv\Tejarat Mobile\Main\Views\KnowledgeTreeForm.fmx</Transaction>
+    <Transaction>2017/12/08 20:32:24.000.687,E:\Programming\MyProjects\Phone Book Mobile\Main\Tac_Tejarat.dproj=E:\Programming\MyProjects\Phone Book Mobile\Main\asan_phonebook.dproj</Transaction>
+    <Transaction>2017/12/08 20:45:21.000.654,E:\Programming\MyProjects\Phone Book Mobile\Main\Customs\Helper.MainForm.pas=</Transaction>
+    <Transaction>2017/12/08 20:52:40.000.045,E:\Programming\MyProjects\Phone Book Mobile\Main\Views\TestForm.pas=</Transaction>
+    <Transaction>2017/12/08 20:53:30.000.579,E:\Programming\MyProjects\Phone Book Mobile\Main\Views\BranchesSearchForm.pas=</Transaction>
+    <Transaction>2017/12/08 20:53:33.000.521,E:\Programming\MyProjects\Phone Book Mobile\Main\Views\KnowledgeTreeSearchForm.pas=</Transaction>
+    <Transaction>2017/12/08 21:07:37.000.917,E:\Programming\MyProjects\Phone Book Mobile\Main\Views\CustomerDataForm.fmx=E:\Programming\MyProjects\Phone Book Mobile\Main\Views\ProfileForm.fmx</Transaction>
+    <Transaction>2017/12/08 21:07:37.000.917,E:\Programming\MyProjects\Phone Book Mobile\Main\Views\CustomerDataForm.pas=E:\Programming\MyProjects\Phone Book Mobile\Main\Views\ProfileForm.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="apk-expansion.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-analytics-v2.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="google-play-services.dex.jar"/>
+    <File Path="Common"/>
+    <File Path="Common\Common.Messages.pas"/>
+    <File Path="Common\Common.Tools.pas"/>
+    <File Path="DAL"/>
+    <File Path="DAL\DAL.DataManager.pas"/>
+    <File Path="DAL\DAL.Profiles.pas"/>
+    <File Path="DAL\DataModule.pas"/>
+    <File Path="DAL\DataModule.dfm"/>
+    <File Path="FMX Custom Units"/>
+    <File Path="FMX Custom Units\FMX.Consts.pas"/>
+    <File Path="FMX Custom Units\REST.Response.Adapter.pas"/>
+    <File Path="LogManager"/>
+    <File Path="LogManager\asanyab.TextLog.pas"/>
+    <File Path="LogManager\KADSolarUtl.pas"/>
+    <File Path="LogManager\LoggerManager.pas"/>
+    <File Path="Tools"/>
+    <File Path="Tools\Android.Tools.pas"/>
+    <File Path="Tools\Asanyab.Tools.pas"/>
+    <File Path="Views"/>
+    <File Path="Views\CustomersListForm.pas"/>
+    <File Path="Views\CustomersListForm.fmx"/>
+    <File Path="Views\ViewDataModule.pas"/>
+    <File Path="Views\ViewDataModule.dfm"/>
+    <File Path="Views\ProfileForm.pas"/>
+    <File Path="Views\ProfileForm.fmx"/>
+    <File Path="AboutUs.pas"/>
+    <File Path="AboutUs.fmx"/>
+    <File Path="BaseClass.pas"/>
+    <File Path="GlobalUnit.pas"/>
+    <File Path="HelpForm.pas"/>
+    <File Path="HelpForm.fmx"/>
+    <File Path="MainForm.pas"/>
+    <File Path="MainForm.fmx"/>
+    <File Path="WelcomePageForm.pas"/>
+    <File Path="WelcomePageForm.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>

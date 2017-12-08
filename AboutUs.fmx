@@ -1,0 +1,124 @@
+object frmAboutUs: TfrmAboutUs
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 560
+  ClientWidth = 380
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 3
+  object Panel1: TPanel
+    Align = Client
+    Size.Width = 380.000000000000000000
+    Size.Height = 560.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object ToolBar1: TToolBar
+      ControlType = Platform
+      Size.Width = 380.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object btnBack: TSpeedButton
+        Align = MostLeft
+        ControlType = Platform
+        Size.Width = 48.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'backtoolbutton'
+        OnClick = btnBackClick
+      end
+      object lblTitle: TLabel
+        Align = Client
+        Margins.Left = 10.000000000000000000
+        Size.Width = 322.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'toollabel'
+        TextSettings.HorzAlign = Center
+        Text = #1583#1585#1576#1575#1585#1607' '#1605#1575
+        TabOrder = 0
+      end
+    end
+    object Layout1: TLayout
+      Align = Top
+      Position.Y = 148.000000000000000000
+      Size.Width = 380.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      object lblOwner: TLabel
+        Align = Contents
+        Size.Width = 380.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.HorzAlign = Center
+        Text = #1711#1585#1608#1607' '#1606#1585#1605' '#1575#1601#1586#1575#1585#1740' '#1570#1587#1575#1606' '#1740#1575#1576
+        TabOrder = 0
+      end
+    end
+    object Layout2: TLayout
+      Align = Top
+      Position.Y = 198.000000000000000000
+      Size.Width = 380.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object btnSite: TSpeedButton
+        Align = Contents
+        StyledSettings = [Family, Size]
+        Size.Width = 380.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        Text = 'www.asanyab.org'
+        TextSettings.FontColor = claDodgerblue
+        OnClick = btnSiteClick
+      end
+    end
+    object Layout3: TLayout
+      Align = Top
+      Position.Y = 98.000000000000000000
+      Size.Width = 380.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 3
+      object lblVersion: TLabel
+        Align = FitLeft
+        Size.Width = 169.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.HorzAlign = Trailing
+        Text = '1.0.0'
+        TabOrder = 0
+      end
+      object lblVerionTitle: TLabel
+        Align = Client
+        Size.Width = 211.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.HorzAlign = Center
+        Text = #1606#1587#1582#1607
+        TabOrder = 1
+      end
+    end
+    object Layout4: TLayout
+      Align = Top
+      Position.Y = 48.000000000000000000
+      Size.Width = 380.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 4
+      object lblAppTitle: TLabel
+        Align = Contents
+        Size.Width = 380.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.HorzAlign = Center
+        Text = #1606#1585#1605' '#1575#1601#1586#1575#1585' '#1740#1575#1583#1711#1740#1585#1740' '#1587#1585#1740#1593'_'#1662#1575#1740#1578#1582#1578' '#1607#1575
+        TabOrder = 0
+      end
+    end
+  end
+end
