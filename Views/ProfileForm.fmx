@@ -1,0 +1,281 @@
+object frmProfile: TfrmProfile
+  Left = 0
+  Top = 0
+  BiDiMode = bdRightToLeft
+  Caption = 'Profile'
+  ClientHeight = 820
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnClose = FormClose
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object VertScrollBox1: TVertScrollBox
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 820.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 640.000000000000000000
+    Viewport.Height = 820.000000000000000000
+    object DetailPanel: TPanel
+      Align = Client
+      Size.Width = 640.000000000000000000
+      Size.Height = 820.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Layout5: TLayout
+        Align = Top
+        Padding.Top = 2.000000000000000000
+        Padding.Bottom = 2.000000000000000000
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 10.000000000000000000
+        Position.Y = 194.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 37.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 5
+        object edtPhoneNumber: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Contents
+          TabOrder = 0
+          KeyboardType = PhonePad
+          Size.Width = 620.000000000000000000
+          Size.Height = 37.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = #1578#1604#1601#1606
+        end
+      end
+      object Layout7: TLayout
+        Align = Top
+        Padding.Top = 2.000000000000000000
+        Padding.Bottom = 2.000000000000000000
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 10.000000000000000000
+        Position.Y = 147.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 37.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 6
+        object edtLastName: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Contents
+          TabOrder = 0
+          TextSettings.HorzAlign = Trailing
+          Size.Width = 620.000000000000000000
+          Size.Height = 37.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = #1606#1575#1605' '#1582#1575#1606#1608#1575#1583#1711#1740
+        end
+      end
+      object Layout8: TLayout
+        Align = Top
+        Padding.Top = 2.000000000000000000
+        Padding.Bottom = 2.000000000000000000
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 10.000000000000000000
+        Position.Y = 53.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 37.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 7
+        object lblname: TLabel
+          Align = Right
+          Position.X = 528.000000000000000000
+          Position.Y = 2.000000000000000000
+          Size.Width = 92.000000000000000000
+          Size.Height = 33.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.HorzAlign = Center
+          Text = #1588#1605#1575#1585#1607' '#1662#1585#1608#1606#1583#1607
+          TabOrder = 0
+        end
+        object lblFileNumber: TLabel
+          Align = Right
+          Position.X = 448.000000000000000000
+          Position.Y = 2.000000000000000000
+          Size.Width = 80.000000000000000000
+          Size.Height = 33.000000000000000000
+          Size.PlatformDefault = False
+          Text = '96-00-3'
+          TabOrder = 1
+        end
+        object Label6: TLabel
+          Align = Right
+          Position.X = 344.000000000000000000
+          Position.Y = 2.000000000000000000
+          Size.Width = 104.000000000000000000
+          Size.Height = 33.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.HorzAlign = Center
+          Text = #1578#1575#1585#1740#1582
+          TabOrder = 2
+        end
+      end
+      object Layout1: TLayout
+        Align = Top
+        Padding.Top = 2.000000000000000000
+        Padding.Bottom = 2.000000000000000000
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 10.000000000000000000
+        Position.Y = 387.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 37.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object btnSaveProfile: TButton
+          Align = Contents
+          ImageIndex = 1
+          Size.Width = 620.000000000000000000
+          Size.Height = 37.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          Text = #1579#1576#1578' '#1575#1591#1604#1575#1593#1575#1578
+          OnClick = btnSaveProfileClick
+        end
+      end
+      object Layout4: TLayout
+        Align = Top
+        Padding.Top = 2.000000000000000000
+        Padding.Bottom = 2.000000000000000000
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 10.000000000000000000
+        Position.Y = 288.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 89.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 2
+        object memAddress: TMemo
+          Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+          DataDetectorTypes = []
+          TextSettings.HorzAlign = Trailing
+          Align = Contents
+          Size.Width = 620.000000000000000000
+          Size.Height = 89.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          Viewport.Width = 616.000000000000000000
+          Viewport.Height = 85.000000000000000000
+        end
+      end
+      object Layout6: TLayout
+        Align = Top
+        Padding.Top = 2.000000000000000000
+        Padding.Bottom = 2.000000000000000000
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 10.000000000000000000
+        Position.Y = 100.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 37.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 3
+        object edtFirstName: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Contents
+          TabOrder = 0
+          TextSettings.HorzAlign = Trailing
+          Size.Width = 620.000000000000000000
+          Size.Height = 37.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = #1606#1575#1605
+        end
+      end
+      object Layout13: TLayout
+        Align = Top
+        Padding.Top = 2.000000000000000000
+        Padding.Bottom = 2.000000000000000000
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 10.000000000000000000
+        Position.Y = 241.000000000000000000
+        Size.Width = 620.000000000000000000
+        Size.Height = 37.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 4
+        object cbCity: TComboBox
+          Align = Contents
+          Placement = Center
+          Size.Width = 620.000000000000000000
+          Size.Height = 37.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object ListBoxItem1: TListBoxItem
+            TextSettings.HorzAlign = Trailing
+            StyleLookup = 'listboxitemlabel'
+            TabOrder = 0
+            Text = #1578#1607#1585#1575#1606
+          end
+          object ListBoxItem2: TListBoxItem
+            TextSettings.HorzAlign = Trailing
+            StyledSettings = [Family, Size, Style, FontColor]
+            StyleLookup = 'listboxitemlabel'
+            TabOrder = 1
+            Text = #1588#1740#1585#1575#1586
+          end
+          object ListBoxItem3: TListBoxItem
+            StyleLookup = 'listboxitemlabel'
+            TabOrder = 2
+            Text = #1585#1588#1578
+          end
+        end
+      end
+      object ToolBar1: TToolBar
+        Padding.Left = 13.000000000000000000
+        Padding.Right = 15.000000000000000000
+        Size.Width = 640.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object Rectangle1: TRectangle
+          Align = Contents
+          Fill.Color = claCornflowerblue
+          Size.Width = 640.000000000000000000
+          Size.Height = 48.000000000000000000
+          Size.PlatformDefault = False
+        end
+        object lblTitle: TLabel
+          Align = Contents
+          Size.Width = 640.000000000000000000
+          Size.Height = 48.000000000000000000
+          Size.PlatformDefault = False
+          StyleLookup = 'toollabel'
+          TextSettings.HorzAlign = Center
+          Text = #1608#1585#1608#1583' '#1575#1591#1604#1575#1593#1575#1578' '#1605#1588#1578#1585#1740
+        end
+        object btnBack: TButton
+          Action = ViewGlobalModule.WindowClose1
+          Align = Left
+          Enabled = True
+          ImageIndex = -1
+          Position.X = 13.000000000000000000
+          Size.Width = 48.000000000000000000
+          Size.Height = 48.000000000000000000
+          Size.PlatformDefault = False
+          StyleLookup = 'priortoolbutton'
+          TabOrder = 0
+        end
+      end
+    end
+  end
+end
