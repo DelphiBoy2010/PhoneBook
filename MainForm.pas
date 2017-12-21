@@ -59,6 +59,7 @@ type
     procedure btnWelcomePageClick(Sender: TObject);
     procedure cbStyleChange(Sender: TObject);
     procedure btnProfileClick(Sender: TObject);
+    procedure btnAction2Click(Sender: TObject);
   private
     { Private declarations }
     FCategory: string;
@@ -121,6 +122,11 @@ end;
 procedure TfrmMain.btnPersonListClick(Sender: TObject);
 begin
   ShowPeopleList(Sender);
+end;
+
+procedure TfrmMain.btnAction2Click(Sender: TObject);
+begin
+  //Test
 end;
 
 procedure TfrmMain.btnHelpClick(Sender: TObject);
