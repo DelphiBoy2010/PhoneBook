@@ -60,6 +60,7 @@ type
     procedure cbStyleChange(Sender: TObject);
     procedure btnProfileClick(Sender: TObject);
     procedure btnAction2Click(Sender: TObject);
+    procedure btnAction1Click(Sender: TObject);
   private
     { Private declarations }
     FCategory: string;
@@ -122,6 +123,11 @@ end;
 procedure TfrmMain.btnPersonListClick(Sender: TObject);
 begin
   ShowPeopleList(Sender);
+end;
+
+procedure TfrmMain.btnAction1Click(Sender: TObject);
+begin
+  //Test2
 end;
 
 procedure TfrmMain.btnAction2Click(Sender: TObject);

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<ActiveMobileDevice>
-		<NoProfile iOSSimulator="iPhone5" Android="YLEUWSUGA68SNZS4"/>
+		<NoProfile iOSSimulator="iPhone5" Android="c1607f31ae9114f"/>
 	</ActiveMobileDevice>
 	<Transactions>
     <Transaction>2017/03/09 11:38:08.000.608,E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\Unit1.fmx=E:\KOM\Programing\My Projects\MQL2\MQL Main FMX\ShowWordsForm.fmx</Transaction>

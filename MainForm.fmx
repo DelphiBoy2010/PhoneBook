@@ -79,6 +79,7 @@ object frmMain: TfrmMain
         Size.PlatformDefault = False
         TabOrder = 0
         Text = #1593#1605#1604#1740#1575#1578
+        OnClick = btnAction1Click
       end
     end
     object Layout5: TLayout
